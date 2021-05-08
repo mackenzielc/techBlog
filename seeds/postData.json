@@ -1,22 +1,22 @@
 [
   {
     "title": "Why Java Script is the best language",
-    "content": "Java script is the best language every because of a b and c",
+    "content": "Java script is the best language ever because of a b and c",
     "user_id": 1
   },
   {
     "title": "Python 101",
-    "content": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet nibh fringilla enim consequat pharetra.",
     "user_id": 1
   },
   {
-    "title": "Learning Python",
-    "content": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes.",
+    "title": "Learning Handlebars",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a dignissim felis, non commodo nibh. Aliquam erat volutpat. Sed in purus nulla. Aenean convallis tristique iaculis. Cras a nibh vehicula, suscipit nibh et, iaculis diam. ",
     "user_id":2
   },
   {
-    "title": "Tesla roadster",
-    "content": "Why I want to buy a tesla roadster",
+    "title": "MVC framework",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet faucibus metus, vitae facilisis orci. Donec iaculis tortor ultricies sem lobortis, eget vulputate orci bibendum.",
     "user_id": 3
   }
 ]
